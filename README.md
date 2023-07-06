@@ -1,2 +1,2 @@
-# traffic_signals_classifier
+# Traffic signs classifier
 CNN model which identifies traffic signals
